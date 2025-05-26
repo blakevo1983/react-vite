@@ -9,7 +9,7 @@ const MyComponent = () => {
   )
 }
 
-function App() {
+const App = () => {
   const [count, setCount] = useState(0)
 
   return (
