@@ -1,0 +1,10 @@
+console.log("Hello, World!");
+console.log("This is a test for MacBook.");
+console.log("Running on MacBook Pro with M1 chip.");
+console.log("Testing JavaScript code execution on MacBook.");
+console.log("End of test.");
+console.log("All tests completed successfully.");
+console.log("No errors encountered during the test.");
+console.log("Finalizing the test script.");
+console.log("Thank you for running the test on MacBook.");
+console.log("This concludes the MacBook test script.");
